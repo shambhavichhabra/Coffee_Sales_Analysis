@@ -53,6 +53,43 @@ Format Cells > Currency
 ```
 Check for duplicates and convert to table. 
 ### Data Analysing 
+Sales by country
+
+<img width="278" alt="Screenshot 2024-08-11 at 10 06 15 PM" src="https://github.com/user-attachments/assets/c18819d5-9def-4487-8377-78244099370e">
+
+Sales by Month
+
+<img width="368" alt="Screenshot 2024-08-11 at 6 47 02 PM" src="https://github.com/user-attachments/assets/41a8ecbe-0d51-485f-9b9f-f99cdda73139">
+
+Sales by Roast Type
+
+<img width="278" alt="Screenshot 2024-08-11 at 10 07 48 PM" src="https://github.com/user-attachments/assets/7619b7de-5fb9-4f2d-a910-218587d9153e">
+
+Sales by Coffee Type
+
+<img width="278" alt="Screenshot 2024-08-11 at 10 08 19 PM" src="https://github.com/user-attachments/assets/2a0eec20-da3d-4a7e-946b-f29aee575e58">
+
+Sales on Weekends or Weekdays
+
+<img width="278" alt="Screenshot 2024-08-11 at 10 09 09 PM" src="https://github.com/user-attachments/assets/25dc9877-2bba-44b9-b6f5-0cf27ddb30e3">
+
+### Data Visualization
+Please find the dashboard <here>
+<img width="1575" alt="Screenshot 2024-08-11 at 8 15 04 PM" src="https://github.com/user-attachments/assets/a137bdae-2c40-4d32-99b7-45219a60531e">
+
+### Key Findings
+Sales by Country:
+The United States leads with the highest sales, totaling *$35,638.89*, Ireland follows with sales of *$6,696.87* and the UK has the lowest recorded sales among the listed countries, amounting to *$2,798.51*.
+The Grand Total sales across all countries sum up to *$45,134.26.*
+This would indicate that there is a need for *onboarding marketing initiatives* in the UK and Ireland where as *retention and loyalty card marketing initiatives* would be beneficial in the US. 
+
+Sales by Month:
+January to March ( and June )  has the highest number of sales. This would indicate that people aren't purchasing as much in the summer months. Summer drinks made with coffee can be marketed along with discounts. 
+
+Coffee and Roast type
+Lightly roasted, Excelsa Coffee is the most popular choice. 
+
+Sales are more during the weekdays than the weekends. Weekend offers can be implemented. 
 
 
 
