@@ -74,7 +74,8 @@ Sales on Weekends or Weekdays
 <img width="278" alt="Screenshot 2024-08-11 at 10 09 09 PM" src="https://github.com/user-attachments/assets/25dc9877-2bba-44b9-b6f5-0cf27ddb30e3">
 
 ### Data Visualization
-Please find the dashboard <here>
+Please find the dashboard here <here>https://public.tableau.com/views/Coffee_sales_analysis_dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 <img width="1575" alt="Screenshot 2024-08-11 at 8 15 04 PM" src="https://github.com/user-attachments/assets/a137bdae-2c40-4d32-99b7-45219a60531e">
 
 ### Key Findings
@@ -86,7 +87,7 @@ This would indicate that there is a need for *onboarding marketing initiatives* 
 Sales by Month:
 January to March ( and June )  has the highest number of sales. This would indicate that people aren't purchasing as much in the summer months. Summer drinks made with coffee can be marketed along with discounts. 
 
-Coffee and Roast type
+Coffee and Roast type:
 Lightly roasted, Excelsa Coffee is the most popular choice. 
 
 Sales are more during the weekdays than the weekends. Weekend offers can be implemented. 
