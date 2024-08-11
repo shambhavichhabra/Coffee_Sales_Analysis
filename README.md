@@ -54,6 +54,5 @@ Format Cells > Currency
 Check for duplicates and convert to table. 
 ### Data Analysing 
 
-[Uploading Coffee_sales_analysis_dashboard.twb…]()
 
 
